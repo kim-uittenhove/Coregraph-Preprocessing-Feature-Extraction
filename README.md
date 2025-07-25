@@ -7,7 +7,7 @@ The code is organized into sequential analysis steps, each building on the resul
 
 ## Installation
 Clone the repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/kim-uittenhove/Coregraph-Preprocessing-Feature-Extraction.git
 cd your-repo
 
 Install dependencies:
@@ -18,6 +18,6 @@ Refer to the PDF documentation for a detailed guide to the analysis pipeline. Ea
 You can apply the pipeline to your own TMT data or use our publicly available dataset available at: [Zenodo link].
 
 ## Repository Structure
-- `src/` : Feature extraction scripts
+- `scripts/` : Feature extraction scripts
 - `doc/` : PDF documentation of feature extraction method
 
