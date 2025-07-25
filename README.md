@@ -21,3 +21,10 @@ You can apply the pipeline to your own TMT data or use our publicly available da
 - `scripts/` : Feature extraction scripts
 - `doc/` : PDF documentation of feature extraction method
 
+## License
+Distributed under the UNIL–CHUV research-use-only license, which permits usage by academic and research institutions in non-commercial contexts. Commercial use requires prior written consent from UNIL–CHUV (PACTT). - see the LICENSE file for details.
+
+## Acknowledgments
+We thank François Beaune (GitHub: @dictoon) for his valuable support in testing and debugging the data acquisition software, for coordinating with the WACOM development team, and for providing insightful feedback on potential algorithmic approaches.
+We also thank the Swiss National Science Foundation (SNSF) for supporting this research through the Sinergia grant CRSII15_186239/1, awarded to principal investigators Daniela Jopp, Stefano Cavalli, Armin von Gunten, François Hermann, and Mike Martin.
+
