@@ -22,7 +22,7 @@ You can apply the pipeline to your own TMT data or use our publicly available da
 - `doc/` : PDF documentation of feature extraction method
 
 ## License
-Distributed under the UNIL–CHUV research-use-only license, which permits usage by academic and research institutions in non-commercial contexts. Commercial use requires prior written consent from UNIL–CHUV (PACTT). - see the LICENSE file for details.
+This code is released under the UNIL–CHUV Software License Agreement for Academic Non-Commercial Research Purposes Only. See the [LICENSE](LICENSE) file for the complete terms and conditions.
 
 ## Acknowledgments
 We thank François Beaune (GitHub: @dictoon) for his valuable support in testing and debugging the data acquisition software, for coordinating with the WACOM development team, and for providing insightful feedback on potential algorithmic approaches.
