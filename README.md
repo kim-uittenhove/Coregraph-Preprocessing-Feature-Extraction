@@ -25,7 +25,7 @@ You can apply the pipeline to your own TMT data or use our publicly available da
 This code is released under the UNIL–CHUV Software License Agreement for Academic Non-Commercial Research Purposes Only. See the [LICENSE.txt](LICENSE.txt) file for the complete terms and conditions.
 
 ## Citation
-Uittenhove, K., Richiardi, J., Von Gunten, A., & Jopp, D. (2025). Initial Release of Trail Making Test Feature Extraction Code (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16534676
+Uittenhove, K., Richiardi, J., Von Gunten, A., & Jopp, D. (2025). Feature Extraction Code for Digital Pen Tablet Data (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16753880
 
 [![DOI](https://zenodo.org/badge/1011183959.svg)](https://doi.org/10.5281/zenodo.16534675)
 
