@@ -15,7 +15,8 @@ pip install -r requirements.txt
 
 ## Usage
 Refer to the PDF documentation for a detailed guide to the analysis pipeline. Each script is designed to produce output that serves as input for the next step.
-You can apply the pipeline to your own TMT data or use our publicly available dataset available at: [Zenodo link].
+You can apply the pipeline to your own TMT data or use our publicly available dataset.
+Uittenhove, K., Jopp, D., Von Gunten, A., & Richiardi, J. (2025). Cognitive and Graphomotor Data from Young Adults [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16753616
 
 ## Repository Structure
 - `scripts/` : Feature extraction scripts
