@@ -34,7 +34,9 @@ We thank François Beaune (GitHub: @dictoon) for his valuable support in testing
 
 ## Funding Sources
 The Swiss National Science Foundation (SNSF) supported this research through the Sinergia grant CRSII15_186239/1, awarded to principal investigators Daniela Jopp, Stefano Cavalli, Armin von Gunten, François Hermann, and Mike Martin.
+
 The Faculty of Social and Political Sciences (SSP) at the University of Lausanne provided additional funding for acquisition of hardware and data collection.
+
 Lausanne University Hospital (CHUV), through the Department of Old Age Psychiatry (SUPAA), funded the development of the acquisition software and supported the completion phase of the project.
 
 
